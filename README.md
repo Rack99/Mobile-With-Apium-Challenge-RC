@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mobile-With-Apium-Challenge-RC
 =======
 # Mobile Automation with Appium Challenge
