@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03bd3948-127b-4af0-99cc-7e3c778d9190" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/Data/MovieData.Json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Screens/HomeScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Screens/LoginScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Screens/MovieScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Screens/RateScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Screens/SearchScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Adapter/Screens/WatchlistScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Reader/JsonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/RateMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter/Bases/BaseMobileScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adapter/Bases/BaseMobileScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter/Bases/BaseMobileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adapter/Bases/BaseMobileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter/Screens/GlobalNavigationScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Core/ConfigCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Core/ConfigCapabilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Capabilities.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Capabilities.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MobileSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MobileSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/MyTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andreaisabm/MobileWithAppiumChallenge.git",
+    "accountId": "727fd6e1-aa53-47df-84ca-c2dc1d8ce3e9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gQDfIopmMr1OFc2MeyW7cYMf9q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.MyTest.LoginAndSaveRateMessage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyTest.LoginAndWatchList.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyTest.SearchMovies.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyTest.click.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rcely/Downloads/Testing Framework 2024-I&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rcely\OneDrive - ENDAVA\Desktop\Mobile\MobileWithAppiumChallenge\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MyTest">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MobileWithAppiumChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MobileWithAppiumChallenge" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesApp_MAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MyTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.LoginAndSaveRateMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesApp_MAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MyTest" />
+      <option name="METHOD_NAME" value="LoginAndSaveRateMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.LoginAndWatchList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesApp_MAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MyTest" />
+      <option name="METHOD_NAME" value="LoginAndWatchList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.SearchMovies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesApp_MAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MyTest" />
+      <option name="METHOD_NAME" value="SearchMovies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.click" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesApp_MAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MyTest" />
+      <option name="METHOD_NAME" value="click" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MyTest" />
+        <item itemvalue="TestNG.MyTest.SearchMovies" />
+        <item itemvalue="TestNG.MyTest.LoginAndSaveRateMessage" />
+        <item itemvalue="TestNG.MyTest.LoginAndWatchList" />
+        <item itemvalue="TestNG.MyTest.click" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03bd3948-127b-4af0-99cc-7e3c778d9190" name="Changes" comment="" />
+      <created>1715621009477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715621009477</updated>
+    </task>
+    <servers />
+  </component>
+</project>
